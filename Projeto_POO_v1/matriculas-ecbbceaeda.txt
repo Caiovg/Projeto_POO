@@ -1,0 +1,7 @@
+18611160:Estrutura de Dados
+18611160:Programacaoo Orientada a Objetos
+18611160:Sistemas Operacionais
+25105505:Programacaoo Orientada a Objetos
+25105505:Estrutura de Dados
+98789704:Programacaoo Orientada a Objetos
+98789704:Sistemas Operacionais

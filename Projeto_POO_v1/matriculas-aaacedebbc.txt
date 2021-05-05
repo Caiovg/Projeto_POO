@@ -1,0 +1,7 @@
+02468120:Estrutura de Dados
+02468120:Programacaoo Orientada a Objetos
+02468120:Sistemas Operacionais
+51541080:Programacaoo Orientada a Objetos
+51541080:Estrutura de Dados
+00182112:Programacaoo Orientada a Objetos
+00182112:Sistemas Operacionais

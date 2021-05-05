@@ -1,0 +1,7 @@
+02180080:Estrutura de Dados
+02180080:Programacaoo Orientada a Objetos
+02180080:Sistemas Operacionais
+12510850:Programacaoo Orientada a Objetos
+12510850:Estrutura de Dados
+89094919:Programacaoo Orientada a Objetos
+89094919:Sistemas Operacionais
